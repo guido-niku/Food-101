@@ -1,4 +1,4 @@
-## **Food 101 challenge** - for Fellowship.AI challenge
+## Food 101 challenge - for Fellowship.AI challenge
 
 The question is stated as follows:
 
@@ -28,4 +28,7 @@ My immediate considerations were:
 - Use Resnet50 or a smaller network in terms of number of parameters (ie：mobilenet ?)
 - Pay attention to colab runtime limitations
 
-Please see the attached Colab notebook.
+Please see the attached Colab notebook. The code can be run directly from Colab ( It will download the dataset and start the training using the relevant code sections )
+Or you can just read it :)
+
+Suggestions are welcome.
